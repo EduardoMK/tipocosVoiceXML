@@ -7,7 +7,7 @@
 <form>
 
 <block>
-   <submit next="http://topicosunisc.esy.es/voice_bevocal/voice.php"/>
+   <submit next="http://topicosespeciaisvoicexml.96.lt/voice.php"/>
 </block>
 
 </form>
