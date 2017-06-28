@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-
-<!DOCTYPE vxml PUBLIC "-//BeVocal Inc//VoiceXML 2.0//EN"
- "http://cafe.bevocal.com/libraries/dtd/vxml2-0-bevocal.dtd">
-<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml"  xml:lang="pt-BR">
+<vxml version="2.1" xml:lang="pt-BR">
 
 <form>
 
 <block>
-   <submit next="http://topicosunisc.esy.es/voice_bevocal/voice.php"/>
+   <submit next="http://topicosespeciaisvoicexml.96.lt/voice.php"/>
 </block>
 
 </form>
